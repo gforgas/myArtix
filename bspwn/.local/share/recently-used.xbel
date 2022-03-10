@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xbel version="1.0"
+      xmlns:bookmark="http://www.freedesktop.org/standards/desktop-bookmarks"
+      xmlns:mime="http://www.freedesktop.org/standards/shared-mime-info"
+>
+  <bookmark href="file:///home/bspwn/.screenlayout/vmwareDisplay" added="2022-02-22T23:17:29.819253Z" modified="2022-02-22T23:17:29.819258Z" visited="2022-02-22T23:17:29.819254Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="arandr" exec="&apos;arandr %u&apos;" modified="2022-02-22T23:17:29.819256Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/Downloads/Brave/Hack.zip" added="2022-02-22T23:28:28.529282Z" modified="2022-02-22T23:28:28.529286Z" visited="2022-02-22T23:28:28.529283Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/zip"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-22T23:28:28.529284Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/Downloads/Brave" added="2022-02-22T23:35:52.250350Z" modified="2022-02-22T23:35:52.250353Z" visited="2022-02-22T23:35:52.250351Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-22T23:35:52.250352Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/.fehRotation.py" added="2022-02-25T00:17:49.132511Z" modified="2022-02-25T00:17:49.132515Z" visited="2022-02-25T00:17:49.132512Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="text/x-python"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-25T00:17:49.132513Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/.fehbg" added="2022-02-25T00:17:49.132522Z" modified="2022-02-25T00:17:49.132523Z" visited="2022-02-25T00:17:49.132522Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-25T00:17:49.132522Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/.p10k.zsh" added="2022-02-25T00:17:49.132526Z" modified="2022-02-25T00:17:49.132527Z" visited="2022-02-25T00:17:49.132526Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-25T00:17:49.132527Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/.xinitrc" added="2022-02-25T00:17:49.132530Z" modified="2022-02-25T00:17:49.132531Z" visited="2022-02-25T00:17:49.132530Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-25T00:17:49.132531Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///home/bspwn/.zshrc" added="2022-02-25T00:17:49.132535Z" modified="2022-02-25T00:17:49.132536Z" visited="2022-02-25T00:17:49.132535Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="application/octet-stream"/>
+        <bookmark:applications>
+          <bookmark:application name="brave" exec="&apos;brave %u&apos;" modified="2022-02-25T00:17:49.132535Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+  <bookmark href="file:///" added="2022-02-26T12:05:33.971730Z" modified="2022-02-26T12:05:33.971733Z" visited="2022-02-26T12:05:33.971731Z">
+    <info>
+      <metadata owner="http://freedesktop.org">
+        <mime:mime-type type="inode/directory"/>
+        <bookmark:applications>
+          <bookmark:application name="electron9" exec="&apos;electron9 %u&apos;" modified="2022-02-26T12:05:33.971732Z" count="1"/>
+        </bookmark:applications>
+      </metadata>
+    </info>
+  </bookmark>
+</xbel>

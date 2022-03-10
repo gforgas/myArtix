@@ -1,0 +1,18 @@
+root:x:0:0::/root:/bin/zsh
+bin:x:1:1::/:/usr/bin/nologin
+daemon:x:2:2::/:/usr/bin/nologin
+mail:x:8:12::/var/spool/mail:/usr/bin/nologin
+ftp:x:14:11::/srv/ftp:/usr/bin/nologin
+http:x:33:33::/srv/http:/usr/bin/nologin
+nobody:x:65534:65534:Nobody:/:/usr/bin/nologin
+dbus:x:81:81:System Message Bus:/:/usr/bin/nologin
+uuidd:x:68:68::/:/usr/bin/nologin
+gforgas:x:1000:1000::/home/gforgas:/bin/bash
+dhcpcd:x:982:982:dhcpcd privilege separation:/:/usr/bin/nologin
+git:x:981:981:git daemon user:/:/usr/bin/git-shell
+bspwn:x:1001:1001::/home/bspwn:/bin/zsh
+avahi:x:980:980:Avahi mDNS/DNS-SD daemon:/:/usr/bin/nologin
+polkitd:x:102:102:PolicyKit daemon:/:/usr/bin/nologin
+geoclue:x:979:979:Geoinformation service:/var/lib/geoclue:/usr/bin/nologin
+rtkit:x:133:133:RealtimeKit:/proc:/usr/bin/nologin
+usbmux:x:140:140:usbmux user:/:/usr/bin/nologin

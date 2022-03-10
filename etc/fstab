@@ -1,0 +1,13 @@
+# Static information about the filesystems.
+# See fstab(5) for details.
+
+# <file system> <dir> <type> <options> <dump> <pass>
+# /dev/sda1 LABEL=ROOT
+UUID=615415dd-5931-4125-a7b0-4cd279b9893e	/         	ext4      	rw,relatime	0 1
+
+# /dev/sda3 LABEL=BOOT
+UUID=4dfb670d-c8b5-46f6-96bb-6ecfe1b99d00	/boot     	ext4      	rw,relatime	0 2
+
+# /dev/sda2 LABEL=SWAP
+UUID=3a25dcb3-20b4-4dc4-9ff3-da36ebc35b6e	none      	swap      	defaults  	0 0
+

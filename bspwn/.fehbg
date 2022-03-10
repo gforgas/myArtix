@@ -1,0 +1,2 @@
+#!/bin/sh
+feh --no-fehbg --bg-fill '/home/bspwn/Pictures/background/1776186.jpg' 

@@ -1,0 +1,12 @@
+2022/02/26-13:37:19.295 22fe Reusing MANIFEST /home/bspwn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/02/26-13:37:19.295 22fe Recovering log #4
+2022/02/26-13:37:19.300 22fe Reusing old log /home/bspwn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000004.log 
+2022/02/26-13:44:17.127 29ea Level-0 table #8: started
+2022/02/26-13:44:17.141 29ea Level-0 table #8: 1490753 bytes OK
+2022/02/26-13:44:17.142 29ea Delete type=0 #4
+2022/02/26-13:47:34.965 29ea Compacting 1@1 + 1@2 files
+2022/02/26-13:47:34.971 29ea Generated table #9@1: 141 keys, 19153 bytes
+2022/02/26-13:47:34.971 29ea Compacted 1@1 + 1@2 files => 19153 bytes
+2022/02/26-13:47:34.972 29ea compacted to: files[ 0 0 1 0 0 0 0 ]
+2022/02/26-13:47:34.972 29ea Delete type=2 #8
+2022/02/26-13:47:34.972 29ea Delete type=2 #5

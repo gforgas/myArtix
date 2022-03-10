@@ -1,0 +1,93 @@
+gnome-session-check-accelerated: GL Helper exited with code 512
+libEGL warning: DRI2: failed to authenticate
+gnome-session-check-accelerated: GLES Helper exited with code 512
+gnome-session-binary[2436]: WARNING: Failed to upload environment to systemd: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.freedesktop.systemd1" does not exist
+gnome-session-binary[2436]: WARNING: Failed to reset failed state of units: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.freedesktop.systemd1" does not exist
+gnome-session-binary[2436]: WARNING: Falling back to non-systemd startup procedure due to error: GDBus.Error:org.freedesktop.DBus.Error.NameHasNoOwner: Name "org.freedesktop.systemd1" does not exist
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+mutter-Message: 23:50:08.859: Running GNOME Shell (using mutter 41.4) as a X11 window and compositing manager
+
+** (gnome-shell:2478): WARNING **: 23:50:09.056: ATK Bridge is disabled but a11y has already been enabled.
+GNOME Shell-Message: 23:50:09.278: Skipping parental controls support as it’s disabled
+GNOME Shell-Message: 23:50:09.349: Failed to launch ibus-daemon: Failed to execute child process “ibus-daemon” (No such file or directory)
+GNOME Shell-Message: 23:50:09.551: Missing required core component Settings, expect trouble…
+GNOME Shell-Message: 23:50:09.571: Telepathy is not available, chat integration will be disabled.
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+GNOME Shell-Message: 23:50:09.655: Error loading calendars: Error calling StartServiceByName for org.gnome.Shell.CalendarServer: Process org.gnome.Shell.CalendarServer exited with status 127
+GNOME Shell-Message: 23:50:09.655: Failed to get PolKit permission: Polkit.Error: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.bolt.enroll is not registered
+
+** (gnome-shell:2478): WARNING **: 23:50:09.656: Error checking authorization for action id org.freedesktop.bolt.enroll: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.bolt.enroll is not registered
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+GNOME Shell-Message: 23:50:09.722: No permission to control network connections: Polkit.Error: GDBus.Error:org.freedesktop.PolicyKit1.Error.Failed: Action org.freedesktop.NetworkManager.network-control is not registered
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+
+(gsd-sharing:2541): sharing-plugin-WARNING **: 23:50:09.753: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.systemd1 was not provided by any .service files
+
+(gsd-sharing:2541): sharing-plugin-WARNING **: 23:50:09.753: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.systemd1 was not provided by any .service files
+
+(gsd-sharing:2541): sharing-plugin-WARNING **: 23:50:09.753: Failed to StopUnit service: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.systemd1 was not provided by any .service files
+
+(gsd-color:2546): color-plugin-WARNING **: 23:50:09.756: There is no colord server available
+
+(gsd-color:2546): color-plugin-WARNING **: 23:50:09.776: There is no colord server available
+
+(gsd-usb-protection:2543): usb-protection-plugin-WARNING **: 23:50:09.804: Failed to get screen saver status: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Shell.ScreenShield was not provided by any .service files
+gnome-session-binary[2436]: WARNING: Could not retrieve current screensaver active state: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.Shell.ScreenShield was not provided by any .service files
+
+(gsd-usb-protection:2543): usb-protection-plugin-WARNING **: 23:50:09.806: Failed to fetch USBGuard parameters: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.usbguard1 was not provided by any .service files
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+gnome-session-binary[2436]: GnomeDesktop-WARNING: Error fetching user unit for own pid: 3
+
+
+(gsd-media-keys:2576): media-keys-plugin-WARNING **: 23:50:10.219: Failed to grab accelerator for keybinding settings:rotate-video-lock
+
+(gsd-media-keys:2576): media-keys-plugin-WARNING **: 23:50:10.220: Failed to grab accelerator for keybinding settings:playback-repeat
+
+(gsd-media-keys:2576): media-keys-plugin-WARNING **: 23:50:10.220: Failed to grab accelerator for keybinding settings:hibernate
+
+(gsd-media-keys:2576): media-keys-plugin-WARNING **: 23:50:10.220: Failed to grab accelerator for keybinding settings:playback-random
+GNOME Shell-Message: 23:50:10.252: GNOME Shell started at Thu Feb 24 2022 23:50:09 GMT+0100 (Central European Standard Time)
+GNOME Shell-Message: 23:50:10.254: Registering session with GDM
+GNOME Shell-Message: 23:50:10.418: Error registering session with GDM: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.DisplayManager was not provided by any .service files
+vmware-user: could not open /proc/fs/vmblock/dev
+
+(gnome-shell:2478): Gjs-CRITICAL **: 23:50:33.973: JS ERROR: Gio.DBusError: Unable to create transient display: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.gnome.DisplayManager was not provided by any .service files
+activateSwitchUser/<@resource:///org/gnome/shell/misc/systemActions.js:416:17
+

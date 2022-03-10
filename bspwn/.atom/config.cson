@@ -1,0 +1,13 @@
+"*":
+  core:
+    audioBeep: false
+    autoHideMenuBar: true
+    telemetryConsent: "no"
+  editor:
+    defaultFontSize: 12
+    fontFamily: "Menlo, Consolas, DejaVu Sans Mono, monospace, Hack Nerd"
+    showIndentGuide: true
+  "exception-reporting":
+    userId: "19b004f8-a7c8-4768-a84a-40ffd496a68a"
+  welcome:
+    showOnStartup: false

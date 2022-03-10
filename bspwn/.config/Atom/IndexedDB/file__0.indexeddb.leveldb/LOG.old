@@ -1,0 +1,6 @@
+2022/02/26-13:19:05.914 19ce Reusing MANIFEST /home/bspwn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/MANIFEST-000001
+2022/02/26-13:19:05.914 19ce Recovering log #3
+2022/02/26-13:19:05.918 19ce Reusing old log /home/bspwn/.config/Atom/IndexedDB/file__0.indexeddb.leveldb/000003.log 
+2022/02/26-13:30:14.725 1ddf Level-0 table #5: started
+2022/02/26-13:30:14.743 1ddf Level-0 table #5: 1821611 bytes OK
+2022/02/26-13:30:14.744 1ddf Delete type=0 #3
